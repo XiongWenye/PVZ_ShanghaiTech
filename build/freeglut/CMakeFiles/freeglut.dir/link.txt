@@ -1,0 +1,3 @@
+D:\mingw64\bin\cmake.exe -E rm -f CMakeFiles\freeglut.dir/objects.a
+D:\mingw64\bin\ar.exe qc CMakeFiles\freeglut.dir/objects.a @CMakeFiles\freeglut.dir\objects1.rsp
+D:\mingw64\bin\gcc.exe  -Wall -pedantic -g -shared -o ..\bin\libfreeglut.dll -Wl,--out-implib,..\lib\libfreeglut.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\freeglut.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\freeglut.dir\linkLibs.rsp

@@ -1,0 +1,2 @@
+D:\mingw64\bin\ar.exe qc ..\..\lib\libFramework.a CMakeFiles/Framework.dir/ObjectBase.cpp.obj CMakeFiles/Framework.dir/WorldBase.cpp.obj CMakeFiles/Framework.dir/TextBase.cpp.obj CMakeFiles/Framework.dir/GameManager.cpp.obj CMakeFiles/Framework.dir/SpriteManager.cpp.obj
+D:\mingw64\bin\ranlib.exe ..\..\lib\libFramework.a

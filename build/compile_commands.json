@@ -1,0 +1,560 @@
+[
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/PvZ.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\PvZ.dir\\src\\main.cpp.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\src\\main.cpp",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/src/main.cpp",
+  "output": "CMakeFiles/PvZ.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/SOIL",
+  "command": "D:\\mingw64\\bin\\gcc.exe  @CMakeFiles/SOIL.dir/includes_C.rsp -g -o CMakeFiles\\SOIL.dir\\src\\image_dxt.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\SOIL\\src\\image_dxt.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/SOIL/src/image_dxt.c",
+  "output": "SOIL/CMakeFiles/SOIL.dir/src/image_dxt.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/SOIL",
+  "command": "D:\\mingw64\\bin\\gcc.exe  @CMakeFiles/SOIL.dir/includes_C.rsp -g -o CMakeFiles\\SOIL.dir\\src\\image_helper.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\SOIL\\src\\image_helper.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/SOIL/src/image_helper.c",
+  "output": "SOIL/CMakeFiles/SOIL.dir/src/image_helper.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/SOIL",
+  "command": "D:\\mingw64\\bin\\gcc.exe  @CMakeFiles/SOIL.dir/includes_C.rsp -g -o CMakeFiles\\SOIL.dir\\src\\soil.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\SOIL\\src\\soil.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/SOIL/src/soil.c",
+  "output": "SOIL/CMakeFiles/SOIL.dir/src/soil.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/SOIL",
+  "command": "D:\\mingw64\\bin\\gcc.exe  @CMakeFiles/SOIL.dir/includes_C.rsp -g -o CMakeFiles\\SOIL.dir\\src\\stb_image_aug.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\SOIL\\src\\stb_image_aug.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/SOIL/src/stb_image_aug.c",
+  "output": "SOIL/CMakeFiles/SOIL.dir/src/stb_image_aug.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_callbacks.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_callbacks.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_callbacks.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/fg_callbacks.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_cursor.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_cursor.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_cursor.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/fg_cursor.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_display.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_display.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_display.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/fg_display.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_ext.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_ext.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_ext.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/fg_ext.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_font_data.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_font_data.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_font_data.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/fg_font_data.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_gamemode.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_gamemode.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_gamemode.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/fg_gamemode.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_geometry.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_geometry.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_geometry.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/fg_geometry.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_gl2.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_gl2.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_gl2.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/fg_gl2.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_init.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_init.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_init.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/fg_init.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_input_devices.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_input_devices.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_input_devices.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/fg_input_devices.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_joystick.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_joystick.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_joystick.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/fg_joystick.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_main.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_main.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_main.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/fg_main.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_misc.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_misc.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_misc.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/fg_misc.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_overlay.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_overlay.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_overlay.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/fg_overlay.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_spaceball.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_spaceball.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_spaceball.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/fg_spaceball.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_state.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_state.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_state.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/fg_state.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_stroke_mono_roman.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_stroke_mono_roman.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_stroke_mono_roman.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/fg_stroke_mono_roman.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_stroke_roman.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_stroke_roman.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_stroke_roman.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/fg_stroke_roman.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_structure.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_structure.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_structure.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/fg_structure.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_teapot.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_teapot.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_teapot.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/fg_teapot.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_videoresize.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_videoresize.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_videoresize.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/fg_videoresize.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_window.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_window.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_window.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/fg_window.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_font.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_font.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_font.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/fg_font.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_menu.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_menu.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_menu.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/fg_menu.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\mswin\\fg_cursor_mswin.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\mswin\\fg_cursor_mswin.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/mswin/fg_cursor_mswin.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/mswin/fg_cursor_mswin.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\mswin\\fg_display_mswin.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\mswin\\fg_display_mswin.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/mswin/fg_display_mswin.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/mswin/fg_display_mswin.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\mswin\\fg_ext_mswin.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\mswin\\fg_ext_mswin.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/mswin/fg_ext_mswin.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/mswin/fg_ext_mswin.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\mswin\\fg_gamemode_mswin.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\mswin\\fg_gamemode_mswin.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/mswin/fg_gamemode_mswin.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/mswin/fg_gamemode_mswin.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\mswin\\fg_init_mswin.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\mswin\\fg_init_mswin.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/mswin/fg_init_mswin.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/mswin/fg_init_mswin.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\mswin\\fg_input_devices_mswin.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\mswin\\fg_input_devices_mswin.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/mswin/fg_input_devices_mswin.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/mswin/fg_input_devices_mswin.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\mswin\\fg_joystick_mswin.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\mswin\\fg_joystick_mswin.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/mswin/fg_joystick_mswin.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/mswin/fg_joystick_mswin.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\mswin\\fg_main_mswin.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\mswin\\fg_main_mswin.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/mswin/fg_main_mswin.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/mswin/fg_main_mswin.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\mswin\\fg_menu_mswin.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\mswin\\fg_menu_mswin.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/mswin/fg_menu_mswin.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/mswin/fg_menu_mswin.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\mswin\\fg_spaceball_mswin.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\mswin\\fg_spaceball_mswin.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/mswin/fg_spaceball_mswin.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/mswin/fg_spaceball_mswin.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\mswin\\fg_state_mswin.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\mswin\\fg_state_mswin.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/mswin/fg_state_mswin.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/mswin/fg_state_mswin.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\mswin\\fg_structure_mswin.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\mswin\\fg_structure_mswin.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/mswin/fg_structure_mswin.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/mswin/fg_structure_mswin.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\mswin\\fg_window_mswin.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\mswin\\fg_window_mswin.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/mswin/fg_window_mswin.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/mswin/fg_window_mswin.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\util\\xparsegeometry_repl.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\util\\xparsegeometry_repl.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/util/xparsegeometry_repl.c",
+  "output": "freeglut/CMakeFiles/freeglut.dir/src/util/xparsegeometry_repl.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_callbacks.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_callbacks.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_callbacks.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/fg_callbacks.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_cursor.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_cursor.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_cursor.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/fg_cursor.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_display.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_display.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_display.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/fg_display.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_ext.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_ext.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_ext.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/fg_ext.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_font_data.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_font_data.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_font_data.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/fg_font_data.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_gamemode.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_gamemode.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_gamemode.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/fg_gamemode.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_geometry.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_geometry.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_geometry.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/fg_geometry.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_gl2.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_gl2.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_gl2.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/fg_gl2.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_init.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_init.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_init.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/fg_init.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_input_devices.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_input_devices.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_input_devices.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/fg_input_devices.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_joystick.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_joystick.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_joystick.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/fg_joystick.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_main.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_main.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_main.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/fg_main.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_misc.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_misc.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_misc.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/fg_misc.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_overlay.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_overlay.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_overlay.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/fg_overlay.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_spaceball.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_spaceball.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_spaceball.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/fg_spaceball.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_state.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_state.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_state.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/fg_state.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_stroke_mono_roman.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_stroke_mono_roman.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_stroke_mono_roman.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/fg_stroke_mono_roman.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_stroke_roman.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_stroke_roman.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_stroke_roman.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/fg_stroke_roman.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_structure.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_structure.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_structure.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/fg_structure.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_teapot.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_teapot.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_teapot.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/fg_teapot.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_videoresize.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_videoresize.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_videoresize.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/fg_videoresize.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_window.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_window.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_window.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/fg_window.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_font.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_font.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_font.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/fg_font.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_menu.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\fg_menu.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/fg_menu.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/fg_menu.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\mswin\\fg_cursor_mswin.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\mswin\\fg_cursor_mswin.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/mswin/fg_cursor_mswin.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/mswin/fg_cursor_mswin.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\mswin\\fg_display_mswin.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\mswin\\fg_display_mswin.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/mswin/fg_display_mswin.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/mswin/fg_display_mswin.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\mswin\\fg_ext_mswin.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\mswin\\fg_ext_mswin.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/mswin/fg_ext_mswin.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/mswin/fg_ext_mswin.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\mswin\\fg_gamemode_mswin.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\mswin\\fg_gamemode_mswin.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/mswin/fg_gamemode_mswin.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/mswin/fg_gamemode_mswin.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\mswin\\fg_init_mswin.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\mswin\\fg_init_mswin.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/mswin/fg_init_mswin.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/mswin/fg_init_mswin.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\mswin\\fg_input_devices_mswin.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\mswin\\fg_input_devices_mswin.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/mswin/fg_input_devices_mswin.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/mswin/fg_input_devices_mswin.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\mswin\\fg_joystick_mswin.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\mswin\\fg_joystick_mswin.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/mswin/fg_joystick_mswin.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/mswin/fg_joystick_mswin.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\mswin\\fg_main_mswin.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\mswin\\fg_main_mswin.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/mswin/fg_main_mswin.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/mswin/fg_main_mswin.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\mswin\\fg_menu_mswin.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\mswin\\fg_menu_mswin.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/mswin/fg_menu_mswin.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/mswin/fg_menu_mswin.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\mswin\\fg_spaceball_mswin.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\mswin\\fg_spaceball_mswin.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/mswin/fg_spaceball_mswin.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/mswin/fg_spaceball_mswin.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\mswin\\fg_state_mswin.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\mswin\\fg_state_mswin.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/mswin/fg_state_mswin.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/mswin/fg_state_mswin.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\mswin\\fg_structure_mswin.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\mswin\\fg_structure_mswin.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/mswin/fg_structure_mswin.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/mswin/fg_structure_mswin.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\mswin\\fg_window_mswin.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\mswin\\fg_window_mswin.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/mswin/fg_window_mswin.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/mswin/fg_window_mswin.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/freeglut",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\util\\xparsegeometry_repl.c.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\third_party\\freeglut\\src\\util\\xparsegeometry_repl.c",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/freeglut/src/util/xparsegeometry_repl.c",
+  "output": "freeglut/CMakeFiles/freeglut_static.dir/src/util/xparsegeometry_repl.c.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/src/Framework",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/Framework.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Framework.dir\\ObjectBase.cpp.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\src\\Framework\\ObjectBase.cpp",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/src/Framework/ObjectBase.cpp",
+  "output": "src/Framework/CMakeFiles/Framework.dir/ObjectBase.cpp.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/src/Framework",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/Framework.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Framework.dir\\WorldBase.cpp.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\src\\Framework\\WorldBase.cpp",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/src/Framework/WorldBase.cpp",
+  "output": "src/Framework/CMakeFiles/Framework.dir/WorldBase.cpp.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/src/Framework",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/Framework.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Framework.dir\\TextBase.cpp.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\src\\Framework\\TextBase.cpp",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/src/Framework/TextBase.cpp",
+  "output": "src/Framework/CMakeFiles/Framework.dir/TextBase.cpp.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/src/Framework",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/Framework.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Framework.dir\\GameManager.cpp.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\src\\Framework\\GameManager.cpp",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/src/Framework/GameManager.cpp",
+  "output": "src/Framework/CMakeFiles/Framework.dir/GameManager.cpp.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/src/Framework",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/Framework.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Framework.dir\\SpriteManager.cpp.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\src\\Framework\\SpriteManager.cpp",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/src/Framework/SpriteManager.cpp",
+  "output": "src/Framework/CMakeFiles/Framework.dir/SpriteManager.cpp.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/src/GameObject",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/GameObject.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GameObject.dir\\GameObject.cpp.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\src\\GameObject\\GameObject.cpp",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/src/GameObject/GameObject.cpp",
+  "output": "src/GameObject/CMakeFiles/GameObject.dir/GameObject.cpp.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/src/GameWorld",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/GameWorld.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GameWorld.dir\\GameWorld.cpp.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\src\\GameWorld\\GameWorld.cpp",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/src/GameWorld/GameWorld.cpp",
+  "output": "src/GameWorld/CMakeFiles/GameWorld.dir/GameWorld.cpp.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/src/GameObject/Environment",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/Environment.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Environment.dir\\Environment.cpp.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\src\\GameObject\\Environment\\Environment.cpp",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/src/GameObject/Environment/Environment.cpp",
+  "output": "src/GameObject/Environment/CMakeFiles/Environment.dir/Environment.cpp.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/src/GameObject/Plants",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/Plants.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Plants.dir\\Plants.cpp.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\src\\GameObject\\Plants\\Plants.cpp",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/src/GameObject/Plants/Plants.cpp",
+  "output": "src/GameObject/Plants/CMakeFiles/Plants.dir/Plants.cpp.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/src/GameObject/Seeds",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/Seeds.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Seeds.dir\\Seeds.cpp.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\src\\GameObject\\Seeds\\Seeds.cpp",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/src/GameObject/Seeds/Seeds.cpp",
+  "output": "src/GameObject/Seeds/CMakeFiles/Seeds.dir/Seeds.cpp.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/src/GameObject/Projectile",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/Projectile.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Projectile.dir\\Projectile.cpp.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\src\\GameObject\\Projectile\\Projectile.cpp",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/src/GameObject/Projectile/Projectile.cpp",
+  "output": "src/GameObject/Projectile/CMakeFiles/Projectile.dir/Projectile.cpp.obj"
+},
+{
+  "directory": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/build/src/GameObject/Zombies",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/Zombies.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Zombies.dir\\Zombies.cpp.obj -c D:\\Documents\\Shanghaitech\\CS_100_2024_spring\\Homework8\\src\\GameObject\\Zombies\\Zombies.cpp",
+  "file": "D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/src/GameObject/Zombies/Zombies.cpp",
+  "output": "src/GameObject/Zombies/CMakeFiles/Zombies.dir/Zombies.cpp.obj"
+}
+]

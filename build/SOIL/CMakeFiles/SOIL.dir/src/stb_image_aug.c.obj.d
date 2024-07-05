@@ -1,0 +1,34 @@
+SOIL/CMakeFiles/SOIL.dir/src/stb_image_aug.c.obj: \
+ D:\Documents\Shanghaitech\CS_100_2024_spring\Homework8\third_party\SOIL\src\stb_image_aug.c \
+ D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/SOIL/include/SOIL/stb_image_aug.h \
+ D:/mingw64/x86_64-w64-mingw32/include/stdio.h \
+ D:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+ D:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+ D:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ D:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ D:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ D:/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ D:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ D:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+ D:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
+ D:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+ D:/mingw64/x86_64-w64-mingw32/include/math.h \
+ D:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ D:/mingw64/x86_64-w64-mingw32/include/string.h \
+ D:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+ D:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
+ D:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+ D:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
+ D:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
+ D:/mingw64/x86_64-w64-mingw32/include/limits.h \
+ D:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ D:/mingw64/x86_64-w64-mingw32/include/malloc.h \
+ D:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
+ D:/mingw64/x86_64-w64-mingw32/include/errno.h \
+ D:/mingw64/x86_64-w64-mingw32/include/memory.h \
+ D:/mingw64/x86_64-w64-mingw32/include/assert.h \
+ D:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
+ D:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
+ D:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+ D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/SOIL/include/SOIL/stbi_dds_aug.h \
+ D:/Documents/Shanghaitech/CS_100_2024_spring/Homework8/third_party/SOIL/include/SOIL/stbi_dds_aug_c.h

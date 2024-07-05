@@ -1,0 +1,2 @@
+D:\mingw64\bin\ar.exe qc ..\..\..\lib\libZombies.a CMakeFiles/Zombies.dir/Zombies.cpp.obj
+D:\mingw64\bin\ranlib.exe ..\..\..\lib\libZombies.a

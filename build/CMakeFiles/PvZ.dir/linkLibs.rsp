@@ -1,0 +1,1 @@
+ lib/libFramework.a lib/libGameWorld.a lib/libGameObject.a lib/libFramework.a lib/libSOIL.a lib/libfreeglut.dll.a -lopengl32 -lwinmm lib/libEnvironment.a lib/libPlants.a lib/libZombies.a lib/libSeeds.a lib/libProjectile.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
